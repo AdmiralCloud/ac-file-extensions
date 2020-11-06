@@ -1,0 +1,22 @@
+[
+	{
+		"ext": "eip",
+		"name": "Enhanced Image Package",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "eps",
+		"name": "Encapsulated PostScript",
+		"mimetype": "application/postscript"
+	},
+		{
+		"ext": "epub",
+		"name": "Electronic Publication",
+		"mimetype": "application/epub+zip"
+	},
+	{
+		"ext": "exe",
+		"name": "Executable",
+		"mimetype": "application/octet-stream"
+	}
+]

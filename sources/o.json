@@ -1,0 +1,92 @@
+[
+	{
+		"ext": "odg",
+		"name": "OpenDocument Graphics",
+		"mimetype": "application/vnd.oasis.opendocument.graphics"
+	},
+	{
+		"ext": "odc",
+		"name": "Office Data Connection",
+		"mimetype": "text/x-ms-odc"
+	},
+	{
+		"ext": "odm",
+		"name": "OpenDocument Master",
+		"mimetype": "application/vnd.oasis.opendocument.text-master"
+	},
+	{
+		"ext": "odp",
+		"name": "OpenDocument Presentation",
+		"mimetype": "application/vnd.oasis.opendocument.presentation"
+	},
+	{
+		"ext": "ods",
+		"name": "OpenDocument Spreadsheet",
+		"mimetype": "application/vnd.oasis.opendocument.spreadsheet"
+	},
+	{
+		"ext": "odt",
+		"name": "OpenDocument Text",
+		"mimetype": "application/vnd.oasis.opendocument.text"
+	},
+	{
+		"ext": "otg",
+		"name": "OpenDocument Template Drawing",
+		"mimetype": "application/vnd.oasis.opendocument.graphics-template"
+	},
+	{
+		"ext": "oth",
+		"name": "OpenDocument Template HTML",
+		"mimetype": "application/vnd.oasis.opendocument.text-web"
+	},
+	{
+		"ext": "ots",
+		"name": "OpenDocument Template Spreadsheet",
+		"mimetype": "application/vnd.oasis.opendocument.spreadsheet-template"
+	},
+	{
+		"ext": "ott",
+		"name": "OpenDocument Template Text",
+		"mimetype": "application/vnd.oasis.opendocument.text-template"
+	},
+	{
+		"ext": "ova",
+		"name": "Open Virtual Appliance",
+		"mimetype": "application/x-virtualbox-ova"
+	},
+	{
+		"ext": "ovf",
+		"name": "Open Virtualization File",
+		"mimetype": "application/x-virtualbox-ovf"
+	},
+	{
+		"ext": "oxt",
+		"name": "OpenOffice.org extension",
+		"mimetype": "application/vnd.openofficeorg.extension"
+	},
+	{
+		"ext": "octet-stream",
+		"name": "Attachment",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "ogg",
+		"name": "Ogg File Format",
+		"mimetype": "audio/ogg"
+	},
+	{
+		"ext": "oga",
+		"name": "Ogg File Format",
+		"mimetype": "audio/ogg"
+	},
+	{
+		"ext": "ogv",
+		"name": "Ogg File Format",
+		"mimetype": "video/ogg"
+	},
+	{
+		"ext": "otf",
+		"name": "OpenType Font",
+		"mimetype": "application/x-font-opentype"
+	}	
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "ext": "nef",
+        "name": "Nikon NEF",
+        "mimetype": "image/x-nikon-nef"
+    },
+    {
+        "ext": "nsv",
+        "name": "Nullsoft Streaming Video",
+        "mimetype": "application/x-winamp"
+    }
+
+]

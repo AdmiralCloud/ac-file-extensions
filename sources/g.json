@@ -1,0 +1,17 @@
+[
+	{
+		"ext": "gif",
+		"name": "Compuserve Graphics Interchange Format",
+		"mimetype": "image/gif"
+	},
+	{
+		"ext": "group",
+		"name": "Windows Contacts Group",
+		"mimetype": "text/x-ms-group"
+	},
+	{
+		"ext": "gz",
+		"name": "GNU-Zip",
+		"mimetype": "application/x-compressed"
+	}
+]
