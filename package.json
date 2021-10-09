@@ -1,5 +1,6 @@
 {
   "name": "ac-file-extensions",
+  "repository": "admiralcloud/ac-file-extensions",
   "version": "1.2.0",
   "description": "Creates a list of file extensions and their \"real\" names",
   "main": "index.js",
@@ -7,16 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node createFile.js"
   },
-  "author": "Mark Poepping/mmpro",
+  "author": "Mark Poepping (https://www.admiralcloud.com)",
   "contributors": [
-    "Florian Timme/mmpro"
+    "Florian Timme/AdmiralCloud"
   ],
   "license": "MIT",
   "dependencies": {
-    "ac-semantic-release": "^0.2.5",
-    "lodash": "^4.17.20"
+    "ac-semantic-release": "^0.2.6",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "eslint": "^7.12.1"
+    "eslint": "^7.32.0"
   }
 }
