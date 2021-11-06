@@ -3,7 +3,7 @@ const _ = require('lodash')
 
 const index = _.last(__filename.split('/'))
 const sourceFiles = _.pull(fs.readdirSync('./sources'), index)
-const fileToWrite = './index.js'
+const fileToWrite = './collection.js'
 
 let sources = []
 

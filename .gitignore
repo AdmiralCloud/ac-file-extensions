@@ -57,4 +57,5 @@ config/ssl/**
 
 installers/**
 
-index.js
+collection.js
+debug.js
