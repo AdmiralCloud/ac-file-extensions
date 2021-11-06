@@ -1,9 +1,9 @@
 module.exports = {
   repository: {
-    url: 'https://github.com/mmpro/ac-file-extensions'
+    url: 'https://github.com/admiralcloud/ac-file-extensions'
   },
   jira: {
-    url: 'https://mmpro.atlassian.net'
+    url: 'https://admiralcloud.atlassian.net'
   },
   changelogFile: __dirname + '/CHANGELOG.md',
   sections: [
