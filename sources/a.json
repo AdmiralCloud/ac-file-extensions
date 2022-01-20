@@ -103,5 +103,10 @@
 		"ext": "avi",
 		"name": "Audio Video Interleave",
 		"mimetype": "video/avi"
+	},
+	{
+		"ext": "avif",
+		"name": "AV1 Image file Format",
+		"mimetype": "video/avif"
 	}
 ]
