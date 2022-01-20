@@ -1,3 +1,13 @@
+<a name="2.0.1"></a>
+
+## [2.0.1](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.0..v2.0.1) (2022-01-20 13:21:55)
+
+
+### Bug Fix
+
+* **App:** Add support for webp extension | VD | [8dc0e60eafb745130ad6e0e209d19c73a47218d6](https://github.com/admiralcloud/ac-file-extensions/commit/8dc0e60eafb745130ad6e0e209d19c73a47218d6)    
+Add support for webp extension  
+Related issues: [browse/AC-2507#AC-2507](https://admiralcloud.atlassian.net/browse/AC-2507)
 <a name="2.0.0"></a>
  
 # [2.0.0](https://github.com/admiralcloud/ac-file-extensions/compare/v1.2.1..v2.0.0) (2021-11-06 14:48:05)
