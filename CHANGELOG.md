@@ -1,3 +1,12 @@
+<a name="2.0.3"></a>
+
+## [2.0.3](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.2..v2.0.3) (2022-01-21 13:14:24)
+
+
+### Bug Fix
+
+* **App:** Fix mimetype for AVIF extension | VD | [48b65b6a070710e2d376ba23a2f9e698df67222d](https://github.com/admiralcloud/ac-file-extensions/commit/48b65b6a070710e2d376ba23a2f9e698df67222d)    
+Fix mimetype for AVIF extension
 <a name="2.0.2"></a>
 
 ## [2.0.2](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.1..v2.0.2) (2022-01-20 15:25:01)
