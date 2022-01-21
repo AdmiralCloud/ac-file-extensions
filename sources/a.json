@@ -107,6 +107,6 @@
 	{
 		"ext": "avif",
 		"name": "AV1 Image file Format",
-		"mimetype": "video/avif"
+		"mimetype": "image/avif"
 	}
 ]
