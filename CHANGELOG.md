@@ -1,6 +1,9 @@
 <a name="2.0.4"></a>
 
 ## [2.0.4](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.3..v2.0.4) (2022-04-20 11:38:28)
+<a name="2.0.3"></a>
+
+## [2.0.3](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.2..v2.0.3) (2022-01-21 13:14:24)
 
 
 ### Bug Fix
@@ -8,6 +11,27 @@
 * **App:** Updated packages | MP | [584c697cee591df8c6124440038ee7d36ba24dfd](https://github.com/admiralcloud/ac-file-extensions/commit/584c697cee591df8c6124440038ee7d36ba24dfd)    
 Updated packages  
 Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+* **App:** Fix mimetype for AVIF extension | VD | [48b65b6a070710e2d376ba23a2f9e698df67222d](https://github.com/admiralcloud/ac-file-extensions/commit/48b65b6a070710e2d376ba23a2f9e698df67222d)    
+Fix mimetype for AVIF extension
+<a name="2.0.2"></a>
+
+## [2.0.2](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.1..v2.0.2) (2022-01-20 15:25:01)
+
+
+### Bug Fix
+
+* **App:** Add support for avif extension | VD | [064b109d53237f32bbeeb1dc70c51d107a76e694](https://github.com/admiralcloud/ac-file-extensions/commit/064b109d53237f32bbeeb1dc70c51d107a76e694)    
+Add support for avif extension
+<a name="2.0.1"></a>
+
+## [2.0.1](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.0..v2.0.1) (2022-01-20 13:21:55)
+
+
+### Bug Fix
+
+* **App:** Add support for webp extension | VD | [8dc0e60eafb745130ad6e0e209d19c73a47218d6](https://github.com/admiralcloud/ac-file-extensions/commit/8dc0e60eafb745130ad6e0e209d19c73a47218d6)    
+Add support for webp extension  
+Related issues: [browse/AC-2507#AC-2507](https://admiralcloud.atlassian.net/browse/AC-2507)
 <a name="2.0.0"></a>
  
 # [2.0.0](https://github.com/admiralcloud/ac-file-extensions/compare/v1.2.1..v2.0.0) (2021-11-06 14:48:05)

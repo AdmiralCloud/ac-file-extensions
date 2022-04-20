@@ -40,6 +40,11 @@
 		"mimetype": "video/webm"
 	},
 	{
+		"ext": "webp",
+		"name": "Web picture format",
+		"mimetype": "image/webp"
+	},
+	{
 		"ext": "wiz",
 		"name": "Microsoft Wizard",
 		"mimetype": "application/msword"
