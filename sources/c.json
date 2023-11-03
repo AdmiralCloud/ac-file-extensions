@@ -55,6 +55,11 @@
 		"mimetype": "image/x-canon-cr2"
 	},
 	{
+		"ext": "cr3",
+		"name": "Canon RAW 3",
+		"mimetype": "image/x-canon-cr3"
+	},
+	{
 		"ext": "crw",
 		"name": "Raw Image Format",
 		"mimetype": "image/x-canon-crw"
