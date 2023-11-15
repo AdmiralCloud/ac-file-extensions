@@ -1,3 +1,18 @@
+<a name="2.0.6"></a>
+
+## [2.0.6](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.5..v2.0.6) (2023-11-15 11:57:44)
+
+
+### Bug Fix
+
+* **App:** add cr3 format | MD | [6508f1ac8cc0de15c62819d7540983b2204903cf](https://github.com/admiralcloud/ac-file-extensions/commit/6508f1ac8cc0de15c62819d7540983b2204903cf)    
+add cr3 extension to sources  
+Related issues: [browse/AC-5043#AC-5043](https://admiralcloud.atlassian.net/browse/AC-5043)
+### Chores
+
+* **App:** Updated packages | MP | [633bb7f65dea429a3a0fdc300e00e15880f6a106](https://github.com/admiralcloud/ac-file-extensions/commit/633bb7f65dea429a3a0fdc300e00e15880f6a106)    
+Updated packages  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
 <a name="2.0.5"></a>
 
 ## [2.0.5](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.4..v2.0.5) (2022-04-20 11:40:09)
