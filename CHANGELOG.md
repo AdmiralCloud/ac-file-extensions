@@ -1,3 +1,13 @@
+<a name="2.0.7"></a>
+
+## [2.0.7](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.6..v2.0.7) (2023-11-16 13:19:46)
+
+
+### Bug Fix
+
+* **App:** add idml format | VD | [08b724ea02473019cd86e54a8fe8365db6f1d7e3](https://github.com/admiralcloud/ac-file-extensions/commit/08b724ea02473019cd86e54a8fe8365db6f1d7e3)    
+add idml format  
+Related issues: [browse/AC-5096#AC-5096](https://admiralcloud.atlassian.net/browse/AC-5096)
 <a name="2.0.6"></a>
 
 ## [2.0.6](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.5..v2.0.6) (2023-11-15 11:57:44)
