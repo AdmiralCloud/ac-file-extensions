@@ -5,6 +5,16 @@
 		"mimetype": "application/octet-stream"
 	},
 	{
+		"ext": "eml",
+		"name": "Electronic Mail (E-Mail)",
+		"mimetype": "application/octet-stream"
+	},
+	{
+		"ext": "emltpl",
+		"name": "E-Mail Template",
+		"mimetype": "application/octet-stream"
+	},
+	{
 		"ext": "eps",
 		"name": "Encapsulated PostScript",
 		"mimetype": "application/postscript"
