@@ -1,3 +1,13 @@
+<a name="2.0.8"></a>
+
+## [2.0.8](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.7..v2.0.8) (2023-12-20 12:51:03)
+
+
+### Bug Fix
+
+* **App:** add eml and emltpl | MD | [8b430f7151304c3fc4570fa6fa5e2cdd6234c1ae](https://github.com/admiralcloud/ac-file-extensions/commit/8b430f7151304c3fc4570fa6fa5e2cdd6234c1ae)    
+add eml and emltpl format  
+Related issues: [browse/AC-5219#AC-5219](https://admiralcloud.atlassian.net/browse/AC-5219)
 <a name="2.0.7"></a>
 
 ## [2.0.7](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.6..v2.0.7) (2023-11-16 13:19:46)
