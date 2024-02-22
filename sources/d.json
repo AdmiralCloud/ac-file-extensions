@@ -63,5 +63,10 @@
 		"ext": "dtd",
 		"name": "Document Type Definition",
 		"mimetype": "application/xml-dtd"
-	}
+	},
+  {
+    "ext": "dwg",
+    "name": "Autodesk DWG Drawing",
+    "mimetype": "image/vnd.dwg"
+  }
 ]
