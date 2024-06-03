@@ -1,3 +1,13 @@
+<a name="2.0.9"></a>
+
+## [2.0.9](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.8..v2.0.9) (2024-06-03 15:29:36)
+
+
+### Bug Fix
+
+* **App:** Add DWG file extension | VD | [38aac39cd5ea0653bc49f5c3079e5b118032de69](https://github.com/admiralcloud/ac-file-extensions/commit/38aac39cd5ea0653bc49f5c3079e5b118032de69)    
+Add DWG file extension  
+Related issues: [browse/AC-2653#AC-2653](https://admiralcloud.atlassian.net/browse/AC-2653)
 <a name="2.0.8"></a>
 
 ## [2.0.8](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.7..v2.0.8) (2023-12-20 12:51:03)
