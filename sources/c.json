@@ -4,6 +4,11 @@
 		"name": "Catalog",
 		"mimetype": "application/vnd.ms-pki.seccat"
 	},
+  {
+		"ext": "cclibs",
+		"name": "CC Libraries",
+		"mimetype": "application/vnd.adobe.library+dcxucf"
+	},
 	{
 		"ext": "cd",
 		"name": "Visual Studio Class Diagram",
