@@ -1,3 +1,14 @@
+<a name="2.0.10"></a>
+
+## [2.0.10](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.9..v2.0.10) (2024-07-17 13:44:50)
+
+
+### Bug Fix
+
+* **App:** add cclibs file extentsion | VD | [2390f4adcef14068b253d12372da8aa5a4cc3b48](https://github.com/admiralcloud/ac-file-extensions/commit/2390f4adcef14068b253d12372da8aa5a4cc3b48)    
+add cclibs file extension  
+fix package with high vulnarability  
+Related issues: [AC-5803/issues#undefined](https://github.com/AC-5803/issues/undefined)
 <a name="2.0.9"></a>
 
 ## [2.0.9](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.8..v2.0.9) (2024-06-03 15:29:36)
