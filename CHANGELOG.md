@@ -1,3 +1,15 @@
+
+## [2.0.11](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.10..v2.0.11) (2025-08-01 14:47:56)
+
+
+### Bug Fix
+
+* **App:** update mimetype of ai to Adobe recommended application/illustrator | VD | [f3896a0dfb237346961d27c5e6e4ad65c1eabd08](https://github.com/admiralcloud/ac-file-extensions/commit/f3896a0dfb237346961d27c5e6e4ad65c1eabd08)    
+update mimetype of ai to Adobe recommended application/illustrator
+### Chores
+
+* **release:** v2.0.10 [ci skip] | [b3956a8c48fb926fc4c4ef5e2d31dbdaa02bcf46](https://github.com/admiralcloud/ac-file-extensions/commit/b3956a8c48fb926fc4c4ef5e2d31dbdaa02bcf46)    
+
 <a name="2.0.10"></a>
 
 ## [2.0.10](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.9..v2.0.10) (2024-07-17 13:44:50)

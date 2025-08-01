@@ -1,7 +1,7 @@
 {
   "name": "ac-file-extensions",
   "repository": "https://github.com/AdmiralCloud/ac-file-extensions",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Creates a list of file extensions and their \"real\" names",
   "main": "index.js",
   "scripts": {
