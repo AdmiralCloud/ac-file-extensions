@@ -1,3 +1,16 @@
+
+## [2.0.12](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.11..v2.0.12) (2025-09-19 05:06:32)
+
+
+### Bug Fix
+
+* **App:** Package updates | MP | [6c8b2c0e94256e8df17b2b9160b6acbe146a8286](https://github.com/admiralcloud/ac-file-extensions/commit/6c8b2c0e94256e8df17b2b9160b6acbe146a8286)    
+Package updates  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+### Chores
+
+* **release:** v2.0.10 [ci skip] | [d61189b4fbda0e7464154766c987e0448c0971e9](https://github.com/admiralcloud/ac-file-extensions/commit/d61189b4fbda0e7464154766c987e0448c0971e9)    
+
 <a name="2.0.10"></a>
 
 ## [2.0.10](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.9..v2.0.10) (2024-07-22 09:58:33)
