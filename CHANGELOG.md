@@ -1,4 +1,19 @@
 
+## [2.0.13](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.12..v2.0.13) (2025-09-19 05:12:00)
+
+
+### Bug Fix
+
+* **App:** Fix after merge conflict | MP | [c33b2925b0f0851f528439a80083761781cb9d21](https://github.com/admiralcloud/ac-file-extensions/commit/c33b2925b0f0851f528439a80083761781cb9d21)    
+Fix after merge conflict  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+* **App:** update mimetype of ai to Adobe recommended application/illustrator | VD | [f3896a0dfb237346961d27c5e6e4ad65c1eabd08](https://github.com/admiralcloud/ac-file-extensions/commit/f3896a0dfb237346961d27c5e6e4ad65c1eabd08)    
+update mimetype of ai to Adobe recommended application/illustrator
+### Chores
+
+* **release:** v2.0.11 [ci skip] | [ccc2f377d5136ae8ffe703bcc72037fbe1da18bb](https://github.com/admiralcloud/ac-file-extensions/commit/ccc2f377d5136ae8ffe703bcc72037fbe1da18bb)    
+
+
 ## [2.0.12](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.11..v2.0.12) (2025-09-19 05:06:32)
 
 
