@@ -7,24 +7,15 @@
 * **App:** Package updates | MP | [6c8b2c0e94256e8df17b2b9160b6acbe146a8286](https://github.com/admiralcloud/ac-file-extensions/commit/6c8b2c0e94256e8df17b2b9160b6acbe146a8286)    
 Package updates  
 Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
-### Chores
 
-* **release:** v2.0.10 [ci skip] | [d61189b4fbda0e7464154766c987e0448c0971e9](https://github.com/admiralcloud/ac-file-extensions/commit/d61189b4fbda0e7464154766c987e0448c0971e9)    
-
-<a name="2.0.10"></a>
-
-## [2.0.10](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.9..v2.0.10) (2024-07-22 09:58:33)
+## [2.0.11](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.10..v2.0.11) (2025-08-01 14:47:56)
 
 
 ### Bug Fix
 
-* **App:** add cclibs file extentsion | VD | [2390f4adcef14068b253d12372da8aa5a4cc3b48](https://github.com/admiralcloud/ac-file-extensions/commit/2390f4adcef14068b253d12372da8aa5a4cc3b48)    
-add cclibs file extension  
-fix package with high vulnarability  
-Related issues: [AC-5803/issues#undefined](https://github.com/AC-5803/issues/undefined)
-### Chores
+* **App:** update mimetype of ai to Adobe recommended application/illustrator | VD | [f3896a0dfb237346961d27c5e6e4ad65c1eabd08](https://github.com/admiralcloud/ac-file-extensions/commit/f3896a0dfb237346961d27c5e6e4ad65c1eabd08)    
+update mimetype of ai to Adobe recommended application/illustrator
 
-* **release:** v2.0.10 [ci skip] | [b3956a8c48fb926fc4c4ef5e2d31dbdaa02bcf46](https://github.com/admiralcloud/ac-file-extensions/commit/b3956a8c48fb926fc4c4ef5e2d31dbdaa02bcf46)    
 
 <a name="2.0.10"></a>
 
