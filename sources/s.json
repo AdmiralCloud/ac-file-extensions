@@ -143,5 +143,10 @@
 		"ext": "srt",
 		"name": "SubRipper Subtitle Information",
 		"mimetype": "text/plain"
-	}
+	},
+  {
+    "ext": "step",
+    "name": "3D model data",
+    "mimetype": "model/step"
+  }
 ]

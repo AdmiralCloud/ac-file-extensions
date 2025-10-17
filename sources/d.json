@@ -68,5 +68,10 @@
     "ext": "dwg",
     "name": "Autodesk DWG Drawing",
     "mimetype": "image/vnd.dwg"
+  },
+  {
+    "ext": "dxf",
+    "name": "AutoCAD DXF file",
+    "mimetype": "application/dxf"
   }
 ]
