@@ -1,4 +1,13 @@
 
+## [2.0.14](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.13..v2.0.14) (2025-10-17 07:07:24)
+
+
+### Bug Fix
+
+* **App:** add step/dxf file extensions | VD | [a9dd73eb0fc08988e5be61b8c4c3aefd58b202a9](https://github.com/admiralcloud/ac-file-extensions/commit/a9dd73eb0fc08988e5be61b8c4c3aefd58b202a9)    
+add step/dxf file extensions  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+
 ## [2.0.13](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.12..v2.0.13) (2025-09-19 05:12:00)
 
 
