@@ -1,4 +1,13 @@
 
+## [2.0.15](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.14..v2.0.15) (2025-11-12 16:47:25)
+
+
+### Bug Fix
+
+* **App:** add more cad file mimetypes | VD | [09a90420e85205edec7eb03cd99d6d650fa11417](https://github.com/admiralcloud/ac-file-extensions/commit/09a90420e85205edec7eb03cd99d6d650fa11417)    
+add more cad file mimetypes  
+Related issues:
+
 ## [2.0.14](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.13..v2.0.14) (2025-10-17 07:07:24)
 
 
