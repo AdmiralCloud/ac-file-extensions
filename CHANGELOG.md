@@ -1,4 +1,25 @@
 
+## [2.0.17](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.16..v2.0.17) (2026-01-23 13:41:16)
+
+
+### Bug Fix
+
+* **App:** Package updates | MP | [8e0990661628d9d208d0964f26846d7d6d0c4c8e](https://github.com/admiralcloud/ac-file-extensions/commit/8e0990661628d9d208d0964f26846d7d6d0c4c8e)    
+Package updates  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+* **App:** add more cad file mimetypes | VD | [09a90420e85205edec7eb03cd99d6d650fa11417](https://github.com/admiralcloud/ac-file-extensions/commit/09a90420e85205edec7eb03cd99d6d650fa11417)    
+add more cad file mimetypes  
+Related issues:
+* **App:** add step/dxf file extensions | VD | [a9dd73eb0fc08988e5be61b8c4c3aefd58b202a9](https://github.com/admiralcloud/ac-file-extensions/commit/a9dd73eb0fc08988e5be61b8c4c3aefd58b202a9)    
+add step/dxf file extensions  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+### Chores
+
+* **release:** v2.0.15 [ci skip] | [b6fd313a9cd36371ddee7cb4c6ae889402499a28](https://github.com/admiralcloud/ac-file-extensions/commit/b6fd313a9cd36371ddee7cb4c6ae889402499a28)    
+
+* **release:** v2.0.14 [ci skip] | [d7b146dd9251b43f1084bdc370d3e3dd8acd8e00](https://github.com/admiralcloud/ac-file-extensions/commit/d7b146dd9251b43f1084bdc370d3e3dd8acd8e00)    
+
+
 ## [2.0.16](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.15..v2.0.16) (2026-01-23 13:38:07)
 
 ### Bug Fix
