@@ -1,4 +1,13 @@
 
+## [2.0.18](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.17..v2.0.18) (2026-02-24 16:11:59)
+
+
+### Bug Fix
+
+* **Misc:** Package updates | MP | [ac176d195348e6792adf12b11c11378f8ec73f9e](https://github.com/admiralcloud/ac-file-extensions/commit/ac176d195348e6792adf12b11c11378f8ec73f9e)    
+Package updates incl ESLint 9 -> 10 and lint fixes  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+
 ## [2.0.17](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.16..v2.0.17) (2026-01-23 13:41:16)
 
 
