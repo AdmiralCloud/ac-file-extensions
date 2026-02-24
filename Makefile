@@ -1,5 +1,5 @@
 lint-fix:
-	./node_modules/.bin/eslint "sources/**" --fix
+	./node_modules/.bin/eslint --fix
 
 commit:
 	@node ./node_modules/ac-semantic-release/lib/commit.js
