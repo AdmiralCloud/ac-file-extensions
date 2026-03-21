@@ -59,6 +59,11 @@
 		"name": "ASP.NET Master Page",
 		"mimetype": "application/xml"
 	},
+  {
+		"ext": "matz",
+		"name": "Material attribute package used by ARCHICAD",
+		"mimetype": "application/vnd.graphisoft.archicad.matz"
+	},
 	{
 		"ext": "mht",
 		"name": "MHTML Web Archive",
