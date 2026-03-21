@@ -1,4 +1,16 @@
 
+## [2.0.21](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.20..v2.0.21) (2026-03-21 11:41:21)
+
+
+### Bug Fix
+
+* **App:** add matz file extension | VD | [63c4364b8d160e846b36d20240d8290dae221c7b](https://github.com/admiralcloud/ac-file-extensions/commit/63c4364b8d160e846b36d20240d8290dae221c7b)    
+add matz file extension
+### Chores
+
+* **release:** v2.0.19 [ci skip] | [d53d41e808030c3fd921122f050af1528eef0157](https://github.com/admiralcloud/ac-file-extensions/commit/d53d41e808030c3fd921122f050af1528eef0157)    
+
+
 ## [2.0.20](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.19..v2.0.20) (2026-03-21 11:39:22)
 
 ### Bug Fix
