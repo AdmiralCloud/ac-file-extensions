@@ -5,6 +5,8 @@ Use it to determine mimetype from extenstion, a prettyfied name or vice versa.
 
 Currently support more than 300 file types.
 
+[![CodeQL](https://github.com/AdmiralCloud/ac-file-extensions/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/AdmiralCloud/ac-file-extensions/actions/workflows/github-code-scanning/codeql)
+
 # BREAKING CHANGES Version 2
 If you upgrade to version 2, please note that there a breaking changes. While version 1 only provided a list of file extensions, version 2 can be used to easily query extensions.
 
