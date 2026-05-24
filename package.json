@@ -5,7 +5,7 @@
   "description": "Creates a list of file extensions and their \"real\" names",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test test.js",
     "postinstall": "node createFile.js"
   },
   "author": "Mark Poepping (https://www.admiralcloud.com)",
@@ -18,8 +18,8 @@
     "lodash": "^4.18.1"
   },
   "devDependencies": {
-    "eslint": "^10.2.1",
-    "globals": "^17.5.0"
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
