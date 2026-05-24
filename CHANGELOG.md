@@ -1,3 +1,30 @@
+## [2.0.24](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.23..v2.0.24) (2026-05-24 06:00:49)
+
+
+### Bug Fix
+
+
+* **App:** Package updates | MP | [1285e96af7994733bf7c2f3bb767dae81ad5f620](https://github.com/admiralcloud/ac-file-extensions/commit/1285e96af7994733bf7c2f3bb767dae81ad5f620)    
+Package updates  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+### Tests
+
+
+* **App:** Added initial tests | MP | [d5e299b34784141da6d861d1b06b0d933853b54c](https://github.com/admiralcloud/ac-file-extensions/commit/d5e299b34784141da6d861d1b06b0d933853b54c)    
+Added initial tests  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+### Documentation
+
+
+* **App:** Added test badge | MP | [f37b714fede046bdf2be1a08415a1942e6f64aef](https://github.com/admiralcloud/ac-file-extensions/commit/f37b714fede046bdf2be1a08415a1942e6f64aef)    
+Added test badge  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
+### Chores
+
+
+* **App:** Added workflow for tests | MP | [f0fd5fae4ac0a57fbdc902a3e5847737cb4bd978](https://github.com/admiralcloud/ac-file-extensions/commit/f0fd5fae4ac0a57fbdc902a3e5847737cb4bd978)    
+Added Github workflow for tests  
+Related issues: [browse/master#master](https://admiralcloud.atlassian.net/browse/master)
 ## [2.0.23](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.22..v2.0.23) (2026-04-24 18:54:26)
 
 
