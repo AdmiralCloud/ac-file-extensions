@@ -1,3 +1,11 @@
+## [2.0.27](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.26..v2.0.27) (2026-08-01 13:24:03)
+
+
+### Bug Fix
+
+
+* **App:** Package updates | MP | [4591b2fa40b78b75180aa1a3caa808007889f82c](https://github.com/admiralcloud/ac-file-extensions/commit/4591b2fa40b78b75180aa1a3caa808007889f82c)    
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 ## [2.0.26](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.25..v2.0.26) (2026-07-12 07:18:24)
 
 
