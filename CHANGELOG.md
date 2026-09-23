@@ -1,3 +1,16 @@
+## [2.0.29](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.28..v2.0.29) (2026-09-23 15:41:15)
+
+
+### Bug Fix
+
+
+* **App:** add fbx/cat files metadata | VD | [4f1e3445b4aff4aaef82ff6e7187fcb93e55b6b8](https://github.com/admiralcloud/ac-file-extensions/commit/4f1e3445b4aff4aaef82ff6e7187fcb93e55b6b8)    
+add fbx/cat files metadata
+### Chores
+
+
+* **App:** Updated packages | VD | [fc3dfa7e3235d6f9869eef368ff699af4116a237](https://github.com/admiralcloud/ac-file-extensions/commit/fc3dfa7e3235d6f9869eef368ff699af4116a237)    
+Updated packages
 ## [2.0.28](https://github.com/admiralcloud/ac-file-extensions/compare/v2.0.27..v2.0.28) (2026-08-23 10:46:21)
 
 
