@@ -1,5 +1,10 @@
 [
 	{
+		"ext": "cad",
+		"name": "Autodesk QuickCAD Drawing",
+		"mimetype": "application/vnd.autodesk.cad"
+	},
+	{
 		"ext": "cat",
 		"name": "Catalog",
 		"mimetype": "application/vnd.ms-pki.seccat"

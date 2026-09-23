@@ -1,5 +1,10 @@
 [
     {
+        "ext": "fbx",
+        "name": "Autodesk FBX 3D Model",
+        "mimetype": "application/vnd.autodesk.fbx"
+    },
+    {
         "ext": "fdf",
         "name": "Acrobat Forms Data Format",
         "mimetype": "application/vnd.fdf"
